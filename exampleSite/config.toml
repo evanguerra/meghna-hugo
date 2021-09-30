@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "Smell and Health Lab"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -186,7 +186,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com) Photos by Richárd Ecsedi, ThisisEngineering RAEng, and Hans Reniers on Unsplash"
 
 ################################ France Language ########################
 [Languages.fr]
