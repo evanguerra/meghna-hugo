@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #FF0000;
+  background: #990B0B;
 }
 
 ::selection {
   color: #fff;
-  background: #FF0000;
+  background: #990B0B;
 }
 
 hr {
@@ -82,7 +82,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #990B0B;
+  color: #560505;
 }
 
 .kill-margin-bottom {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #FF0000;
+  background-color: #990B0B;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -137,11 +137,11 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #FF0000;
+  background-color: #990B0B;
 }
 
 .color {
-  color: #990B0B;
+  color: #560505;
 }
 
 .sub-title {
@@ -215,11 +215,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .btn-main {
-  background: #FF0000;
+  background: #990B0B;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .title p {
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .slick-slide {
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .navbar-toggler:focus {
@@ -460,7 +460,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #FF0000;
+  color: #990B0B;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #FF0000;
+  border-bottom: 2px solid #990B0B;
 }
 
 .about .block:hover .icon-box {
@@ -627,7 +627,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .about-2 .content-block .media h4 {
@@ -707,20 +707,20 @@ a:hover {
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #FF0000;
+  border-color: #990B0B;
 }
 
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
-  background: #FF0000;
+  background: #990B0B;
   padding: 12px 0;
   width: 100%;
   margin: 0;
 }
 
 #contact-submit:hover {
-  border-color: #990B0B;
-  background-color: #990B0B;
+  border-color: #560505;
+  background-color: #560505;
 }
 
 .form-meghna ::placeholder {
@@ -754,7 +754,7 @@ a:hover {
 }
 
 .success {
-  background-color: #990B0B;
+  background-color: #560505;
   border-radius: 4px;
   color: #fff;
   display: none;
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #FF0000;
+  color: #990B0B;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #FF0000;
+  color: #990B0B;
   font-size: 30px;
 }
 
@@ -870,7 +870,7 @@ a:hover {
 }
 
 .portfolio-filter .btn.active {
-  border-color: #FF0000;
+  border-color: #990B0B;
 }
 
 .portfolio-block {
@@ -929,7 +929,7 @@ a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #FF0000;
+  background: #990B0B;
   width: 50px;
   height: 50px;
   color: #fff;
@@ -975,13 +975,13 @@ a:hover {
 
 .service-2 .service-item:hover i {
   background: #fff;
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .service-2 .service-item i {
   font-size: 30px;
   display: inline-block;
-  background: #FF0000 none repeat scroll 0 0;
+  background: #990B0B none repeat scroll 0 0;
   border-radius: 30px;
   box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
@@ -1014,7 +1014,7 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #FF0000;
+  background: #990B0B;
 }
 
 /*=================================================================
@@ -1093,7 +1093,7 @@ a:hover {
 
 .member-photo .mask ul li a:hover {
   background-color: #fff;
-  color: #FF0000;
+  color: #990B0B;
   border: 1px solid transparent;
 }
 
@@ -1174,7 +1174,7 @@ a:hover {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #FF0000;
+  background-color: #990B0B;
   border: 2px solid transparent;
 }
 
@@ -1268,7 +1268,7 @@ a:hover {
 }
 
 .post-meta a {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .post-meta>span {
@@ -1329,7 +1329,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .next-prev .prev-post i {
@@ -1352,7 +1352,7 @@ a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #FF0000;
+  color: #990B0B;
 }
 
 .comments-section {
@@ -1400,7 +1400,7 @@ a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #FF0000;
+  color: #990B0B;
   font-size: 13px;
 }
 
@@ -1427,7 +1427,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #FF0000;
+  border: 1px solid #990B0B;
 }
 
 .comment-reply-form textarea,
@@ -1529,7 +1529,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #FF0000;
+  background: #990B0B;
 }
 
 .social-icon ul li a:hover i {
@@ -1572,8 +1572,8 @@ input#e-mail,
 }
 
 #scrollUp:hover {
-  background-color: #FF0000;
-  border: 1px solid #FF0000;
+  background-color: #990B0B;
+  border: 1px solid #990B0B;
 }
 
 /*=================================================================
@@ -1581,9 +1581,9 @@ input#e-mail,
 ==================================================================*/
 
 .twitter-bird span {
-  border: 2px solid #990B0B;
+  border: 2px solid #560505;
   border-radius: 50px;
-  color: #990B0B;
+  color: #560505;
   display: inline-block;
   margin-bottom: 50px;
   height: 90px;
@@ -1599,7 +1599,7 @@ input#e-mail,
 }
 
 .tweet a {
-  color: #990B0B;
+  color: #560505;
 }
 
 /*=================================================================
@@ -1611,9 +1611,9 @@ input#e-mail,
 }
 
 .blog-icon {
-  border: 1px solid #990B0B;
+  border: 1px solid #560505;
   border-radius: 50%;
-  color: #990B0B;
+  color: #560505;
   display: inline-block;
   padding: 16px 20px;
 }
@@ -1699,7 +1699,7 @@ input#e-mail,
 }
 
 .post-meta a:hover {
-  color: #990B0B;
+  color: #560505;
 }
 
 .post-excerpt .more {
@@ -1713,7 +1713,7 @@ input#e-mail,
 }
 
 .post-excerpt .more a:hover {
-  background-color: #990B0B;
+  background-color: #560505;
   color: #fff;
 }
 
@@ -1761,9 +1761,9 @@ aside.widget {
 }
 
 .tab-post-nav li.active a {
-  border-top: 3px solid #990B0B;
+  border-top: 3px solid #560505;
   background-color: #2d2c2c;
-  color: #990B0B;
+  color: #560505;
 }
 
 .tab-pane.active .clearfix:first-child {
@@ -1781,7 +1781,7 @@ aside.widget {
 }
 
 .tab-excerpt h4 a:hover {
-  color: #990B0B;
+  color: #560505;
 }
 
 .tab-post-nav li a {
@@ -1799,7 +1799,7 @@ aside.widget {
 
 .categories>li:hover a {
   padding-left: 10px;
-  color: #990B0B;
+  color: #560505;
 }
 
 .categories>li:last-child {
@@ -1820,7 +1820,7 @@ aside.widget {
 }
 
 .widget-content .tag:hover {
-  background-color: #990B0B;
+  background-color: #560505;
   color: #fff;
 }
 
@@ -1856,7 +1856,7 @@ aside.widget {
 
 .post-pagination ul li a:hover,
 .post-pagination ul li.active a {
-  background-color: #990B0B;
+  background-color: #560505;
   color: #fff;
 }
 
@@ -1870,7 +1870,7 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #990B0B;
+  border-left: 5px solid #560505;
   font-style: italic;
   line-height: 22px;
   padding: 20px 20px 10px 20px;
@@ -1885,7 +1885,7 @@ blockquote {
 }
 
 .next-prev a:hover {
-  color: #990B0B;
+  color: #560505;
 }
 
 .prev-post i {
@@ -1957,7 +1957,7 @@ blockquote {
 
 .author-comment cite a:hover,
 .replay:hover {
-  color: #990B0B;
+  color: #560505;
   text-decoration: underline;
 }
 
@@ -1983,7 +1983,7 @@ blockquote {
 }
 
 #comment-form .form-control:hover {
-  border-color: #990B0B;
+  border-color: #560505;
 }
 
 .form-group:last-child,
@@ -1999,7 +1999,7 @@ blockquote {
 }
 
 .form-control-meghna .form-control:focus {
-  border-color: #FF0000;
+  border-color: #990B0B;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
@@ -2253,8 +2253,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #FF0000;
-  border-color: #FF0000;
+  background: #990B0B;
+  border-color: #990B0B;
   color: #fff
 }
 
@@ -2264,9 +2264,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #FF0000;
+  background: #990B0B;
   color: #fff;
-  border-color: #FF0000;
+  border-color: #990B0B;
 }
 
 #select-language {
