@@ -3,7 +3,7 @@ cta:
   enable : true
   bg_image : "images/backgrounds/hans-reniers-lQGJCMY5qcM-unsplash.jpg"
   title : "Improving smell and health"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  content : "Interested in working with us? Please get in touch!"
   button:
     enable : true
     label : "Apply"

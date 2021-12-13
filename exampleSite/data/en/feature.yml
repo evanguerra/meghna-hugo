@@ -6,21 +6,16 @@ feature:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : Research Area
+    - title : Universal Chemosensory Testing
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Similar to sight and hearing tests, we work towards regular smell and taste testing.
       
       # feature item loop
-    - title : Research Area
+    - title : Chemosensory Interventions
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We are interested in chemosensory interventions in both olfactory training and autism.
 
       # feature item loop
-    - title : Research Area
+    - title : Sensory Nutrition
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Research Area
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We are interested in sensory nutrition. 

@@ -4,19 +4,19 @@ funfacts:
   bg_image : "images/backgrounds/thisisengineering-raeng-nZbtducZUFU-unsplash.jpg"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
+    - title : "News mentions"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "422"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "Blog posts"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "43"
     
     # counter item loop
-    - title : "Positive feedback"
+    - title : "Wikipedia articles"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "6"
     
     # counter item loop
     - title : "Cups of Coffee"

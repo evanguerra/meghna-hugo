@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Smell and Health"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  content : "How can we use smell and taste to diagnose and treat disease?"
   button:
     enable : true
     label : "Learn More"
