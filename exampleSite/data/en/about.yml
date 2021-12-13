@@ -6,11 +6,23 @@ about:
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We Study Smell and Health
     content : We are a group of, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      button:
+        enable : true
+        label : "Learn More"
+        link : "#about"
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Our Research
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      button:
+        enable : true
+        label : "Learn More"
+        link : "#portfolio"
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Apply
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+      button:
+        enable : true
+        label : "Learn More"
+        link : "#contact"
