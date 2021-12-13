@@ -5,24 +5,4 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We Study Smell and Health
-    content : We are a group of, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-      button:
-        enable : true
-        label : "Learn More"
-        link : "#about"
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Our Research
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-      button:
-        enable : true
-        label : "Learn More"
-        link : "#portfolio"
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Apply
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-      button:
-        enable : true
-        label : "Learn More"
-        link : "#contact"
+    content : Would the spread of the COVID-19 pandemic have been different if large scale smell testing was available? Can familiar odors ease the social experience of individuals with autism? How can we counteract the negative sensory nutritional consequences of people experiencing smell disorders? The Parma Lab investigates the behavioral and psychophysiological markers of disease such as COVID-19, respiratory illness, and autism, develops tools to measure chemosensation in large and diverse samples and develops interventions to address chemosensory loss and its downstream nutritional consequences.
