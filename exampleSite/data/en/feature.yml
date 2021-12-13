@@ -3,7 +3,6 @@ feature:
   enable : true
   image : images/about/thisisengineering-raeng-vGA1ei1yxos-unsplash.jpg
   title : We Study Smell and Health.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
     - title : Universal Chemosensory Testing

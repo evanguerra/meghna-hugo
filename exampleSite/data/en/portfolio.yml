@@ -4,73 +4,73 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : publication 
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["publications"]
+      content : Description of publication.
       link : "https://themefisher.com"
       
     # portfolio item loop
-    - name : Sound system
+    - name : News article
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      categories : ["news"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
+    - name : Talk
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : ["talks", "publications"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : Another publication
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+      categories : ["publications"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Shopping Bag
+#      image : images/portfolio/portfolio-5.jpg
+#      image_webp : images/portfolio/portfolio-5.webp
+#      categories : ["design"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Tag Design
+#      image : images/portfolio/portfolio-6.jpg
+#      image_webp : images/portfolio/portfolio-6.webp
+#      categories : ["photography"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Business Card
+#      image : images/portfolio/portfolio-7.jpg
+#      image_webp : images/portfolio/portfolio-7.webp
+#      categories : ["development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Stationary Design
+#      image : images/portfolio/portfolio-8.jpg
+#      image_webp : images/portfolio/portfolio-8.webp
+#      categories : ["design", "development"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Tag Design
+#      image : images/portfolio/portfolio-2.jpg
+#      image_webp : images/portfolio/portfolio-2.webp
+#      categories : ["design", "photography"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
