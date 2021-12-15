@@ -48,8 +48,20 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "research"
+hasChildren = true
+  [[Languages.en.menu.main]]
+  parent = "research"
+  name = "research interests"
+  url = "#feature"
+  [[Languages.en.menu.main]]
+  parent = "research"
+  name = "publications"
+  url = "#portfolio"
+  [[Languages.en.menu.main]]
+  parent = "research"
+  name = "resources"
+  url = "#service"
 weight = 2
 
 [[Languages.en.menu.main]]
