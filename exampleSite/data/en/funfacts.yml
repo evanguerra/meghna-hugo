@@ -5,7 +5,7 @@ funfacts:
   counter_item:
     # counter item loop
     - title : "News mentions"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-announcement" # themify icon pack : https://themify.me/themify-icons
       count : "422"
     
     # counter item loop
@@ -15,7 +15,7 @@ funfacts:
     
     # counter item loop
     - title : "Wikipedia articles"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
       count : "6"
     
     # counter item loop
