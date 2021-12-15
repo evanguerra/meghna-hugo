@@ -3,6 +3,6 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-    title : We Study Smell and Health
-    content : Would the spread of the COVID-19 pandemic have been different if large scale smell testing was available? Can familiar odors ease the social experience of individuals with autism? How can we counteract the negative sensory nutritional consequences of people experiencing smell disorders? The Parma Lab investigates the behavioral and psychophysiological markers of disease such as COVID-19, respiratory illness, and autism, develops tools to measure chemosensation in large and diverse samples and develops interventions to address chemosensory loss and its downstream nutritional consequences.
+  icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+  title : We Study Smell and Health
+  content : Would the spread of the COVID-19 pandemic have been different if large scale smell testing was available? Can familiar odors ease the social experience of individuals with autism? How can we counteract the negative sensory nutritional consequences of people experiencing smell disorders? The Parma Lab investigates the behavioral and psychophysiological markers of disease such as COVID-19, respiratory illness, and autism, develops tools to measure chemosensation in large and diverse samples and develops interventions to address chemosensory loss and its downstream nutritional consequences.
