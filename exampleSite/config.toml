@@ -50,6 +50,7 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "research"
 hasChildren = true
+weight = 2
   [[Languages.en.menu.main]]
   parent = "research"
   name = "research interests"
@@ -62,7 +63,6 @@ hasChildren = true
   parent = "research"
   name = "resources"
   url = "#service"
-weight = 2
 
 [[Languages.en.menu.main]]
 name = "portfolio"
