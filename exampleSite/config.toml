@@ -55,14 +55,17 @@ weight = 2
   parent = "research"
   name = "research interests"
   url = "#feature"
+  weight = 1
   [[Languages.en.menu.main]]
   parent = "research"
   name = "publications"
   url = "#portfolio"
+  weight = 2
   [[Languages.en.menu.main]]
   parent = "research"
   name = "resources"
   url = "#service"
+  weight = 3
 
 [[Languages.en.menu.main]]
 name = "portfolio"
