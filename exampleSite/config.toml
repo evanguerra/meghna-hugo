@@ -65,29 +65,39 @@ weight = 2
   url = "#service"
 
 [[menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "lab"
+hasChildren = true
 weight = 3
+  [[menu.main]]
+  parent = "lab"
+  name = "who we are"
+  url = "#team"
+  [[menu.main]]
+  parent = "lab"
+  name = "apply"
+  url = "#contact"
+
 
 [[menu.main]]
-name = "team"
-url = "#team"
+name = "media"
+hasChildren = true
 weight = 4
+  [[menu.main]]
+  parent = "media"
+  name = "talks"
+  url = "#portfolio"
+  [[menu.main]]
+  parent = "media"
+  name = "in the news"
+  url = "#portfolio"
+  [[menu.main]]
+  name = "twitter"
+  url = "#blog"
 
 [[menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[menu.main]]
-name = "contact"
+name = "contact us"
 url = "#contact"
-weight = 7
+weight = 5
 
 [[menu.main]]
 name = "themefisher"
