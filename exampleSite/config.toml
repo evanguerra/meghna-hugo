@@ -62,7 +62,7 @@ weight = 2
   [[menu.main]]
   parent = "research"
   name = "resources"
-  url = "#service"
+  url = "#pricing"
 
 [[menu.main]]
 name = "lab"
