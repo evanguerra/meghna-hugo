@@ -2,8 +2,8 @@
 cta:
   enable : true
   bg_image : "images/backgrounds/hans-reniers-lQGJCMY5qcM-unsplash.jpg"
-  title : "Improving smell and health"
-  content : "Interested in working with us? Please get in touch!"
+  title : "Interested in working with us?"
+  content : "Please get in touch!"
   button:
     enable : true
     label : "Apply"
