@@ -9,29 +9,19 @@ team:
       designation : Assistant Director, Assistant Member
       content : I am a psychologist interested in human olfaction across the lifespan. Both my basic and translational work aims at finding ways to use smell as an opportunity to improve health. I use behavioral and physiological methods to understand how odors influence typical and atypical behavior. Recently, I have been chairing the Global Consortium for Chemosensory Research (GCCR) to understand how smell, taste and chemesthesis are affected by COVID-19 and other respiratory disorders, I have co-developed smell tests to facilitate awareness of chemosensory loss and distortion, and I am working to bring new solutions to favor chemosensory recovery.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/val_parma?lang=en"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/valentina-parma-8a9b8b11"
         
     # team member loop
     - name : Evan Guerra
       image : images/team/evan-guerra.jpg
       designation : Junior Research Technician
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : I am a Masters in Library and Information Science student with a Bachelors in Computer Science. I have been working in the lab since September 2021 and I enjoy creating digital workflows and data analysis.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/evan-guerra-319587136"
         
     # team member loop
     #- name : Michael Jonson
