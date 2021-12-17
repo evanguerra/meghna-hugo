@@ -7,14 +7,14 @@ feature:
       # feature item loop
     - title : Universal Chemosensory Testing
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Similar to sight and hearing tests, we work towards regular smell and taste testing.
+      content : Similar to sight and hearing tests, we work towards regular smell and taste testing
       
       # feature item loop
     - title : Chemosensory Interventions
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : We are interested in chemosensory interventions in both olfactory training and autism.
+      content : We are interested in chemosensory interventions in both olfactory training and autism
 
       # feature item loop
     - title : Sensory Nutrition
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : We are interested in sensory nutrition. 
+      content : We are interested in sensory nutrition
