@@ -15,7 +15,12 @@
 
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
-					{{ range site.Menus.main }}
+					{{ range .Site.Menus.main }} {{ if .HasChildren }}
+					{{ .Name }}
+					  {{ range .Children }}
+					  {{ .Name }}
+					  {{ end }}
+				  {{ else }} 
 					<li class="nav-item">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
 						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
