@@ -51,7 +51,7 @@ team:
           
     # team member loop
     - name : Terhi Nurminen
-      image : images/team/team-4.jpg
+      image : 
       designation : 
       content : 
       social :
