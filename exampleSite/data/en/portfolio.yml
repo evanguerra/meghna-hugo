@@ -18,20 +18,20 @@ portfolio:
       link : "https://www.theguardian.com/world/2021/oct/29/toast-or-soiled-nappy-how-covid-can-alter-sense-of-smell-parosmia"
       
     # portfolio item loop
-    - name : Talk
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["talks", "publications"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Talk
+#      image : images/portfolio/portfolio-3.jpg
+#      image_webp : images/portfolio/portfolio-3.webp
+#      categories : ["talks", "publications"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
-    - name : Another publication
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["publications"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#    - name : Another publication
+#      image : images/portfolio/portfolio-4.jpg
+#      image_webp : images/portfolio/portfolio-4.webp
+#      categories : ["publications"]
+#      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      link : "#"
       
     # portfolio item loop
 #    - name : Shopping Bag

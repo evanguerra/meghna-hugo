@@ -166,7 +166,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com) Photos by Richárd Ecsedi, ThisisEngineering RAEng, and Hans Reniers on Unsplash"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com) Photos by Richárd Ecsedi, ThisisEngineering RAEng, Mikolaj, Utsav, and Hans Reniers on Unsplash"
 
 ################################ France Language ########################
 [Languages.fr]
