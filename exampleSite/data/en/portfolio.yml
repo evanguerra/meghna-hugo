@@ -7,15 +7,15 @@ portfolio:
     - name : More Than Smell-COVID-19 Is Associated With Severe Impairment of Smell, Taste, and Chemesthesis  
       image : images/portfolio/mikolaj-DCzpr09cTXY-unsplash.jpg
       categories : ["publications"]
-      content : Recent anecdotal and scientific reports have provided evidence of a link between COVID-19 and chemosensory impairments, such as anosmia. However, these reports have downplayed or failed to distinguish potential effects on taste, ignored chemesthesis, and generally lacked quantitative measurements. Here, we report the development, implementation, and initial results of a multilingual, international questionnaire to assess self-reported quantity and quality of perception in 3 distinct chemosensory modalities (smell, taste, and chemesthesis) before and during COVID-19.
+      content : 
       link : "https://pubmed.ncbi.nlm.nih.gov/32564071/"
       
     # portfolio item loop
     - name : Fresh air or foul odour? How Covid can distort the sense of smell
       image : images/portfolio/utsav-srestha-HeNrEdA4Zp4-unsplash.jpg
       categories : ["news"]
-      content : Coronavirus-induced parosmia is surprisingly common and the sensory confusion can have profound effects
-      link : ""
+      content : 
+      link : "https://www.theguardian.com/world/2021/oct/29/toast-or-soiled-nappy-how-covid-can-alter-sense-of-smell-parosmia"
       
     # portfolio item loop
     - name : Talk
