@@ -50,21 +50,19 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "research"
 hasChildren = true
-  [[Languages.en.menu.main]]
+weight = 2
+  [[menu.main]]
   parent = "research"
-  name = "research interests"
+  name = "interests"
   url = "#feature"
-  weight = 1
-  [[Languages.en.menu.main]]
+  [[menu.main]]
   parent = "research"
   name = "publications"
   url = "#portfolio"
-  weight = 2
-  [[Languages.en.menu.main]]
+  [[menu.main]]
   parent = "research"
   name = "resources"
   url = "#service"
-  weight = 3
 
 [[Languages.en.menu.main]]
 name = "portfolio"
