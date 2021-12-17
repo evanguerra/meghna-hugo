@@ -1,7 +1,7 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/hans-reniers-lQGJCMY5qcM-unsplash.jpg"
+  bg_image : "images/backgrounds/nasa-Q1p7bh3SHj8-unsplash.jpg"
   title : "Improving smell and health"
   content : "Interested in working with us? Please get in touch!"
   button:
