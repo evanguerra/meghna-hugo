@@ -91,6 +91,7 @@ weight = 4
   name = "in the news"
   url = "#portfolio"
   [[menu.main]]
+  parent = "media"
   name = "twitter"
   url = "#blog"
 
