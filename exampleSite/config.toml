@@ -53,7 +53,7 @@ weight = 2
   [[menu.main]]
   parent = "research"
   name = "interests"
-  url = "#service"
+  url = "#services"
   [[menu.main]]
   parent = "research"
   name = "publications"
