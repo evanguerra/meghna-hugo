@@ -51,6 +51,7 @@ weight = 1
 name = "research"
 dropdown
 hasChildren = true
+weight = 2
   [[Languages.en.menu.main]]
   parent = "research"
   name = "research interests"
