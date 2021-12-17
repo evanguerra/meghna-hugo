@@ -12,34 +12,36 @@
 			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-
+			
 			<div class="collapse navbar-collapse" id="navigation">
-				<ul class="navbar-nav ml-auto">
-					{{ range site.Menus.main }}
-					  {{ if .HasChildren }}
-					    <li class="nav-item">
-                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}
-                </a>
-					    </li>
-					    <ul class="sub-menu">
-					      {{ range .Children }}
-					      <li class="nav-item">
-					        <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-					        href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}
-					        </a>
-					      </li>
-					      {{ end }}
-              </ul>
-            {{ else }}
-              <li class="nav-item">
-                <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-                href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}
-                </a>
-              </li>
-            {{ end }}
-					{{ end }}
-				</ul>
+			  <ul class="navbar-nav ml-auto">
+			    {{ range site.Menus.main }}
+			    {{ if .HasChildren }}
+			    <div class="dropdown">
+			      <button class="dropbtn">{{ .Name }}
+			      <i class="fa fa-caret-down"></i>
+			      </button>
+			      <div class="dropdown-content">
+			        <ul class="sub-menu">
+			          {{ range .Children }}
+			          <li class="nav-item">
+			            <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
+			            href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}
+			            </a>
+			          </li>
+			          {{ end }}
+			        </ul>
+			      </div>
+			    </div>
+			    {{ else }}
+			    <li class="nav-item">
+			      <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
+			      href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}
+			      </a>
+			    </li>
+			    {{ end }}
+			    {{ end }}
+			  </ul>
 			</div>
 		</nav>
 	</div>
