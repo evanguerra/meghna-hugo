@@ -8,4 +8,4 @@ banner:
   button:
     enable : true
     label : "Learn More"
-    link : "#about"
+    link : "#feature"
