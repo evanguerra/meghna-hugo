@@ -24,33 +24,40 @@ team:
           link : "https://www.linkedin.com/in/evan-guerra-319587136"
         
     # team member loop
-    #- name : Michael Jonson
-     # image_webp : images/team/team-3.webp
-      #image : images/team/team-3.jpg
-      #designation : Web Developer
-      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      #social :
-       # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #  link : "#"
-        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
-        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
-        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
+    - name : Dhirendra Singh Gehlot
+      image : images/team/dhirendra-gehlot.jpg
+      designation : Visiting Scientist
+      content :
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
         
     # team member loop
-    #- name : Mo. Kha. Alamgir
-     # image_webp : images/team/team-4.webp
-      #image : images/team/team-4.jpg
-      #designation : SEO Specialist
-      #content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      #social :
-       # - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-        #  link : "#"
-        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
-        #- icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
-        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-         # link : "#"
+    - name : Stephanie Hunter
+      image : images/team/stephanie-hunter-215.jpg
+      designation : Postdoctoral Fellow
+      content : 
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+          
+    # team member loop
+    - name : Terhi Nurminen
+      image : images/team/team-4.jpg
+      designation : 
+      content : 
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
