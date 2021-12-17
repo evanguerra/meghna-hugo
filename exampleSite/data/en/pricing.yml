@@ -5,6 +5,8 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : R
+      price: R
+      unit: Tutorials
       services:
         - R Tutorial
         - APA Paper Tutorial
@@ -17,6 +19,8 @@ pricing:
       
     # pricing table loop
     - name : R Markdown
+      price: R Markdown
+      unit: Tutorial 
       services:
         - Research Compendium Tutorial
       button:
