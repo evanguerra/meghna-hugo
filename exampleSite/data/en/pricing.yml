@@ -8,11 +8,8 @@ pricing:
       price: R
       unit: Tutorials
       services:
-        - R Tutorial
-        - APA Paper Tutorial
-        - Dissertation Tutorial
-        - Poster Tutorial
-        - Slides Tutorial
+        - R Intro Tutorial
+        - APA Paper, Dissertation, Poster, and Slides Tutorials
         - all created by students at Temple University
       button:
         label : "R Turorials"
