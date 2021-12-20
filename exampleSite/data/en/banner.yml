@@ -4,12 +4,12 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "We Study Smell and Health"
-  content :  >
-    very "long"
-    'string' with
+  content :  |
+             very "long"
+             'string' with
 
-    paragraph gap, \n and        
-    spaces.
+             paragraph gap, \n and        
+             spaces.
   button:
     enable : true
     label : "Learn More"
