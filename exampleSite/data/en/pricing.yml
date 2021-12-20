@@ -4,7 +4,7 @@ pricing:
   title : Resources
   pricing_table :
     # pricing table loop
-    - name : R
+    - name :
       price: R
       unit: Tutorials
       services:
@@ -13,16 +13,18 @@ pricing:
         - Dissertation Tutorial
         - Poster Tutorial
         - Slides Tutorial
+        - all created by students at Temple University
       button:
         label : "R Turorials"
         link : "https://templepsychr.netlify.app/"
       
     # pricing table loop
-    - name : R Markdown
+    - name :
       price: R Markdown
       unit: Tutorial 
       services:
         - Research Compendium Tutorial
+        - created by students at Temple University
       button:
         label : "R Markdowwn Tutorial"
         link : "https://vparma.netlify.app/courses/tutorial2/"
