@@ -13,6 +13,8 @@ team:
           link : "https://twitter.com/val_parma?lang=en"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/valentina-parma-8a9b8b11"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto: vparma@monell.org"
         
     # team member loop
     - name : Evan Guerra
@@ -22,6 +24,8 @@ team:
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/evan-guerra-319587136"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "mailto: eguerra@monell.org"
         
     # team member loop
     - name : Dhirendra Singh Gehlot
