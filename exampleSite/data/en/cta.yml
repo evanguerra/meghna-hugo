@@ -2,7 +2,7 @@
 cta:
   enable : true
   bg_image : "images/backgrounds/hans-reniers-lQGJCMY5qcM-unsplash.jpg"
-  title : "Interested in working with us?"
+  title : "Are you an organized lifelong learner & are you fascinated by smell and taste?"
   content : "Please get in touch!"
   button:
     enable : true
