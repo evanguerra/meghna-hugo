@@ -3,18 +3,29 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Philadelphia, PA, USA"
+    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+      info : "GitHub: smellandhealthlab"
+      button:
+        label : "GitHub"
+        link : "https://github.com/smellandhealthlab"
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: "
+    - icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
+      info : "Twitter: @SmellHealth"
+      button:
+        label : "Twitter"
+        link : "https://twitter.com/SmellHealth"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: smellandhealthlab@monell.org"
+      
+    - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      info : "Open Science Framework: Parma Lab"
+      button:
+        label : "OSF"
+        link : "https://osf.io/q9knv/"
 
 
   # Contact form
