@@ -43,66 +43,61 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[menu.main]]
-name = "about"
+name = "About"
 weight = 1
 
 [[menu.main]]
-name = "research"
+name = "Research"
 hasChildren = true
 weight = 2
   [[menu.main]]
-  parent = "research"
+  parent = "Research"
   name = "interests"
   url = "#services"
   [[menu.main]]
-  parent = "research"
+  parent = "Research"
   name = "publications"
   url = "#portfolio"
   [[menu.main]]
-  parent = "research"
+  parent = "Research"
   name = "resources"
   url = "#pricing"
 
 [[menu.main]]
-name = "lab"
+name = "Lab"
 hasChildren = true
 weight = 3
   [[menu.main]]
-  parent = "lab"
+  parent = "Lab"
   name = "who we are"
   url = "#team"
   [[menu.main]]
-  parent = "lab"
+  parent = "Lab"
   name = "apply"
   url = "#contact"
 
 
 [[menu.main]]
-name = "media"
+name = "Media"
 hasChildren = true
 weight = 4
   [[menu.main]]
-  parent = "media"
+  parent = "Media"
   name = "talks"
   url = "#portfolio"
   [[menu.main]]
-  parent = "media"
+  parent = "Media"
   name = "in the news"
   url = "#portfolio"
   [[menu.main]]
-  parent = "media"
+  parent = "Media"
   name = "twitter"
   url = "#blog"
 
 [[menu.main]]
-name = "contact us"
+name = "Contact us"
 url = "#contact"
 weight = 5
-
-[[menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 ############################# Default Parameters ##########################
 [params]
