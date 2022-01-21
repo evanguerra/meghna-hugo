@@ -65,3 +65,16 @@ team:
 #          link : "#"
 #        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
 #          link : "#"
+
+# team member loop
+    - name : Jonas Junge
+      image : images/team/JonasJunge.jpg
+      designation : Visiting Scientist
+      content : I am a visiting student. I am a Ph.D. fellow at the Department of Food Science at Aarhus University in Denmark. My Ph.D. project is about taste interactions and I have earlier been working with taste-aroma interaction. I joined the lab in January 2022, and will be working on projects related to food aromas and food preference related to smell loss.
+#      social :
+#        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
