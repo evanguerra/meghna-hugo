@@ -54,10 +54,10 @@ team:
 #          link : "#"
           
     # team member loop
-#    - name : Terhi Nurminen
-#      image : 
-#      designation : 
-#      content : 
+    - name : Edith Adjei Danquah
+      image : images/team/edith.png
+      designation : Senior Research Technician
+      content : Masters in biomedical sciences- previous work included cell culture and studies with coronary vessel development. I looked at a particular protein to determine if knockdown of that protein influenced cell behaviors like epithelial cell migration required for coronary vessel development. Previous work included working as a medical quality assurance specialist alongside physicians to help them fill out forms in accordance with US Veteran's Affairs office to help them receive benefits, working in a BSL2 CLIA-certified lab to produce PCR results to determine COVID-19 positive individuals, and most recently viral vector production. I'm excited for this role because it is different from all my last roles because. I will get to focus on nonbench-work science and bring my skills from my previous work experiences to the Parma lab to help advance its studies. 
 #      social :
 #        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
 #          link : "#"
