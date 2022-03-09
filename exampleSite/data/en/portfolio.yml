@@ -19,42 +19,42 @@ portfolio:
       
     # portfolio item loop
     - name : Recuperare gusto e olfatto dopo il covid
-      image : 
+      image : images/portfolio/header_home_piazzapulita2021.jpg
       categories : ["talks", "publications"]
       content : 
       link : "https://www.la7.it/piazzapulita/video/recuperare-gusto-e-olfatto-dopo-il-covid-17-12-2021-414559"
       
     # portfolio item loop
     - name : What does smell loss reveal about covid-19, and how long will it last?
-      image : 
+      image_webp : images/portfolio/gettyimages-1229340223_web.webp
       categories : ["talks", "publications"]
       content : 
       link : "https://www.newscientist.com/article/mg24933163-000-what-does-smell-loss-reveal-about-covid-19-and-how-long-will-it-last/?utm_term=Autofeed&utm_campaign=echobox&utm_medium=social&utm_source=Twitter#Echobox=1610088479"
       
     # portfolio item loop
     - name : In conversation with Professor Valentina Parma, Head of GCCR
-      image : 
+      image : images/portfolio/monitop-col-ent3.jpg
       categories : ["talks", "publications"]
       content :
       link : "https://www.entandaudiologynews.com/features/ent-features/post/in-conversation-with-professor-valentina-parma-head-of-gccr"
       
     # portfolio item loop
     - name : COVID is inspiring smell scientists to explore exciting new frontiers
-      image :
+      image : images/portfolio/Capture.JPG
       categories : ["talks", "publications"]
       content :
       link : "https://www.mic.com/life/sense-of-smell-covid-smell-science-research"
       
     # portfolio item loop
     - name : COVID-19: loss of smell and taste
-      image :
+      image_webp : images/portfolio/xphoto-1594152324190-6564a21f3553.jpg,qitok=cSAR4mH5.pagespeed.ic.X_Nm0ryeOb.webp
       categories : ["talks", "publications"]
       content :
       link : "https://www.thenakedscientists.com/articles/interviews/covid-19-loss-smell-and-taste"
       
     # portfolio item loop
     - name : Testing & Diagnosing Olfactory Health with Valentina Parma, PhD
-      image :
+      image : images/portfolio/Capture1.JPG
       categories : ["talks", "publications"]
       content :
       link : "https://podcasts.apple.com/us/podcast/45-testing-diagnosing-olfactory-health-with-valentina/id1546693681?i=1000552087977"
